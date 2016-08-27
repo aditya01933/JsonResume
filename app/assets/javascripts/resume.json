@@ -1,0 +1,88 @@
+{
+  "basics": {
+    "name": "Aditya Tiwari",
+    "label": "Ror developer",
+    "picture": "",
+    "email": "adityatiwari01933@gmail.com",
+    "phone": "9977966106",
+    "website": "http://techoalien.com",
+    "summary": "CTO@Parsnyp, Ror developer@recroup.",
+    "location": {
+      "address": "8, Mishra nagar",
+      "postalCode": "452009",
+      "city": "Indore",
+      "countryCode": "IN",
+      "region": "Madhya pradesh"
+    },
+    "profiles": [{
+      "network": "Linkedin",
+      "username": "aditya01933",
+      "url": "http://in.twitter.com/in/aditya01933"
+    }]
+  },
+  "work": [{
+    "company": "Parsnyp",
+    "position": "CTO",
+    "website": "http://parsnyp.com",
+    "startDate": "01-01-2015",
+    "endDate": "Present",
+    "summary": "Team management and platform development.",
+    "highlights": [
+      "Started the company's platform development"
+    ]
+  },
+  {
+    "company": "Recroup",
+    "position": "Full stack developer",
+    "website": "http://recroup.com",
+    "startDate": "03-09-2015",
+    "endDate": "Present",
+    "summary": "Platform and API development.",
+    "highlights": [
+      "Responsible for complete backend API."
+    ]
+  }],
+  "volunteer": [{
+    "organization": "ACDT Kenya-UNO",
+    "position": "Volunteer",
+    "website": "http://organization.com/",
+    "summary": "Fund raising website development.",
+    "highlights": [
+      "Certificate of appreciation from UNO"
+    ]
+  }],
+  "education": [{
+    "institution": "Mitm",
+    "area": "Computer Science",
+    "studyType": "Bachelor",
+    "startDate": "01-07-2012",
+    "endDate": "01-07-2016",
+    "cgpa": "7.3"
+  }],
+  "publications": [{
+    "name": "Changes in Rails 5",
+    "publisher": "techoalien",
+    "releaseDate": "01-07-2016",
+    "website": "http://techoalien.com",
+  }],
+  "skills": [{
+    "name": "Web Development - Ror",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }],
+  "languages": [{
+    "name": "English",
+    "level": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Computer games"
+  }],
+  "references": [{
+    "name": "Seshank Vemuri",
+    "reference": "Founder@Parsnyp"
+  }]
+}
