@@ -21,7 +21,7 @@ class ResumeDecorator
 	end
 
 	def work
-		OpenStruct.new self.data["work"]
+		self.data["work"]
 	end
 
 	def volunteer
@@ -29,7 +29,7 @@ class ResumeDecorator
 	end
 
 	def education
-		OpenStruct.new self.data["education"]
+		OpenStruct.new self.data["education"][0]
 	end
 
 	def publications
@@ -37,7 +37,7 @@ class ResumeDecorator
 	end
 
 	def skills
-		OpenStruct.new self.data["skills"]
+	 	self.data["skills"]
 	end
 
 	def keywords
