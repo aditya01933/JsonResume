@@ -3,12 +3,12 @@
     "name": "Aditya Tiwari",
     "label": "Ror developer",
     "picture": "https://avatars0.githubusercontent.com/u/7118254?v=3&s=460",
-    "email": "adityatiwari01933@gmail.com",
-    "phone": "9977966106",
+    "email": "adityatiwari01933@test.com",
+    "phone": "99779666",
     "website": "http://techoalien.com",
     "summary": "I am a Ruby Lover.",
     "location": {
-      "address": "8, Mishra nagar",
+      "address": "8, Mishra nagar TEST address",
       "postalCode": "452009",
       "city": "Indore",
       "countryCode": "IN",
@@ -16,8 +16,8 @@
     },
     "profiles": [{
       "network": "Linkedin",
-      "username": "aditya01933",
-      "url": "http://in.twitter.com/in/aditya01933"
+      "username": "aditya0193",
+      "url": "http://in.twitter.com/in/aditya0193"
     }]
   },
   "work": [{
